@@ -2,7 +2,8 @@
 """
 Created on Mon Jan 11 11:28:43 2021
 
-@author: luiggi
+@author: luiggi silva 
+@contacto: luiggi11.16@gmail.com
 """
 
 import requests
