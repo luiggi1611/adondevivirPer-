@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 11 11:28:43 2021
 
-@author: luigg
+@author: luiggi
 """
 
 import requests
@@ -14,7 +14,6 @@ soup = BeautifulSoup(page.content, 'html.parser')
 os.chdir(r"C:\Users\luigg\OneDrive\Documentos\adondevivir")
 
 from bs4 import BeautifulSoup
-import requests
 import urllib.request
 from pytesseract import image_to_string
 from PIL import Image ##pillow
